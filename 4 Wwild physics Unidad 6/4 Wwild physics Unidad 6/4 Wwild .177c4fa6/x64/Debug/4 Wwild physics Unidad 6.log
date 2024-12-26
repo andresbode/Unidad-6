@@ -1,0 +1,17 @@
+﻿  main.cpp
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(63,16): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(68,55): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(68,41): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,66): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,66): warning C4244:         with
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,66): warning C4244:         [
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,66): warning C4244:             T=float
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,66): warning C4244:         ]
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,47): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,47): warning C4244:         with
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,47): warning C4244:         [
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,47): warning C4244:             T=float
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(110,47): warning C4244:         ]
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(138,45): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\main.cpp(165,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+  4 Wwild physics Unidad 6.vcxproj -> C:\Users\andresbode\source\repos\4 Wwild physics Unidad 6\4 Wwild physics Unidad 6\x64\Debug\4 Wwild physics Unidad 6.exe
